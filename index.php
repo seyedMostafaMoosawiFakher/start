@@ -10,6 +10,8 @@
 <php 
 echo ("hi");
 echo ("hi2");
+     echo ("hi");
+echo ("hi2");
 ?>
 </body>
 </html>
